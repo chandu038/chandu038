@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chandudarapaneni&label=Profile%20views&color=0e75b6&style=flat" alt="chandudarapaneni" /> </p>
 - 🔭 I’m currently studying  on **Vel Tech Rangarajan Dr. Sagunthala R&D Institute of Science and Technology**
 
-- 🌱 I’m currently learning **Node.js and My SQl**
+- 🌱 I’m currently learning **Express.js and My SQl**
 
 - 👯 I’m looking to collaborate on **Frontend Web Developers**
 
