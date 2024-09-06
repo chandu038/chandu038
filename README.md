@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **chandu**
 
-- ⚡ Fun fact **I Think I am Lazy![LoadingGIF (2)]
+- ⚡ Fun fact **I Think I am Lazy...!😉**
 **
 
 <h3 align="left">Connect with me:</h3>
