@@ -1,5 +1,5 @@
 [![MasterHead](https://wesempire.co.ke/wp-content/uploads/2023/09/web-app-development.gif)](https://rishavchanda.io)
-<h1 align="center">Hi 👋, I'm DARPANENI CHANDU</h1>
+<h1 align="center">Hi 👋, I'm DARAPANENI CHANDU</h1>
 <h3 align="center">A passionate Web Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://wesempire.co.ke/wp-content/uploads/2023/09/design-uiux-services.gif">
 
