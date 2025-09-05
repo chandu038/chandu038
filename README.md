@@ -5,7 +5,7 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chandudarapaneni&label=Profile%20views&color=0e75b6&style=flat" alt="chandudarapaneni" /> </p>
-- 🔭 I’m currently studying  at **Vel Tech Rangarajan Dr. Sagunthala R&D Institute of Science and Technology||(27279)**
+- 🔭 I’m currently studying  at Vel Tech Rangarajan Dr. Sagunthala R&D Institute of Science and Technology||(27279)
 
 - 🌱 I’m currently learning **Docker and AWS**
 
