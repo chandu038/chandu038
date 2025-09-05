@@ -28,5 +28,8 @@
  <a href="https://angular.io/" target="_blank" rel="noreferrer"> 
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" alt="angular" width="40" height="40"/> 
  </a>
+  <a href="https://postgreeSQL.io/" target="_blank" rel="noreferrer"> 
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgreeSQL/postgreeSQL-original.svg" alt="postgreeSQL" width="40" height="40"/> 
+ </a>
 
  </p>
