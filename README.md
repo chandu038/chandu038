@@ -18,8 +18,8 @@
 - 📫 How to reach me **chandu**
 
 - ⚡ Fun fact **I Think I am Lazy...!😉**
-<h3 align="left"><a href="https://www.linkedin.com/in/chandu-darapaneni-1631b3329/">Connect with me:</a></h3>
-
+<h3 align="left">Connect with me:</h3>
+<a href="https://www.linkedin.com/in/chandu-darapaneni-1631b3329/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="Linkedin" width="40" height="40""></a>
 <p align="left">
 </p>
 <h3 align="left">Languages and Tools:</h3>
