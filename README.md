@@ -2,8 +2,8 @@
 
 Computer Science graduate (B.Tech, 2026) building full-stack applications and AI/GenAI-powered systems. I like taking things from idea to a live, working product — not just a class assignment.
 
-- 🚀 Currently building **CarrerClub** — a live job listings platform (React + Spring Boot + Firebase)
-- 🧠 Exploring **RAG, LangChain, and agentic AI** on top of my full-stack background
+- ✅ Built **CarrerClub** — a live job listings platform (React + Spring Boot + Firebase)
+- 🧠 Currently learning **AI/ML** — exploring RAG, LangChain, and agentic AI on top of my full-stack background
 - 💼 Actively looking for **Software Engineer / AI Engineer / SDE** roles
 - 🛠️ Core stack: Java, Spring Boot, React, Python, FastAPI, PostgreSQL
 - 📫 Reach me: darapanenic1@gmail.com | [LinkedIn](https://www.linkedin.com/in/chandu-darapaneni-1631b3329/)
