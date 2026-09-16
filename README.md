@@ -1,6 +1,6 @@
 ### Hi, I'm Darapaneni Chandu 👋
 
-Computer Science graduate (B.Tech, 2026) building full-stack applications and AI/GenAI-powered systems. I like taking things from idea to a live, working product — not just a class assignment.
+Computer Science graduate (B.Tech, 2026) building full-stack applications and AI/GenAI-powered systems. I like taking things from idea to a live, working product  not just a class assignment.
 
 - ✅ Built **CarrerClub** => a live job listings platform (React + Spring Boot + Firebase)
 - 🧠 Currently learning **AI/ML** =>exploring RAG, LangChain, and agentic AI on top of my full-stack background
@@ -39,9 +39,9 @@ Computer Science graduate (B.Tech, 2026) building full-stack applications and AI
 
 **[CarrerClub](https://github.com/Chandu038/REPLACE_WITH_REPO_NAME)** => Live job listings platform aggregating jobs across India. React · Spring Boot · Firebase. [Live demo →](https://www.carrerclub.in/)
 
-**[Sweet Shop Management System](https://github.com/Chandu038/REPLACE_WITH_REPO_NAME)** — Full-stack inventory & order management app with JWT auth. Spring Boot · PostgreSQL · React.
+**[Sweet Shop Management System](https://github.com/Chandu038/REPLACE_WITH_REPO_NAME)** => Full-stack inventory & order management app with JWT auth. Spring Boot · PostgreSQL · React.
 
-**[Knowledge RAG Assistant](https://github.com/chandu038/Knowledge-Rag-Assistant)** — AI-powered study assistant using RAG to answer questions and manage personalized study notes. Python · LangChain · Streamlit. [Live demo →](https://knowledge-rag-assistant.streamlit.app/)
+**[Knowledge RAG Assistant](https://github.com/chandu038/Knowledge-Rag-Assistant)** => AI-powered study assistant using RAG to answer questions and manage personalized study notes. Python · LangChain · Streamlit. [Live demo →](https://knowledge-rag-assistant.streamlit.app/)
 
 ---
 
