@@ -1,35 +1,48 @@
-[![MasterHead](https://wesempire.co.ke/wp-content/uploads/2023/09/web-app-development.gif)](https://rishavchanda.io)
-<h1 align="center">Hi 👋, I'm DARAPANENI CHANDU</h1>
-<h3 align="center">A passionate Web Developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://wesempire.co.ke/wp-content/uploads/2023/09/design-uiux-services.gif">
+### Hi, I'm Darapaneni Chandu 👋
 
+Computer Science graduate (B.Tech, 2026) building full-stack applications and AI/GenAI-powered systems. I like taking things from idea to a live, working product — not just a class assignment.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chandudarapaneni&label=Profile%20views&color=0e75b6&style=flat" alt="chandudarapaneni" /> </p>
-- 🔭 I’m currently studying  at Vel Tech Rangarajan Dr. Sagunthala R&D Institute of Science and Technology||(27279)
+- 🚀 Currently building **CarrerClub** — a live job listings platform (React + Spring Boot + Firebase)
+- 🧠 Exploring **RAG, LangChain, and agentic AI** on top of my full-stack background
+- 💼 Actively looking for **Software Engineer / AI Engineer / SDE** roles
+- 🛠️ Core stack: Java, Spring Boot, React, Python, FastAPI, PostgreSQL
+- 📫 Reach me: darapanenic1@gmail.com | [LinkedIn](https://www.linkedin.com/in/chandu-darapaneni-1631b3329/)
 
-- 🌱 I’m currently learning **Docker and AWS**
+---
 
-- 👯 I’m looking to collaborate on **Frontend Web Developers**
+**Languages & Frameworks**
 
-- 👨‍💻 All of my projects are available at [https://github.com/chandu038](https://github.com/chandu038)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 
-- 💬 Ask me about **Web Development**
+**Databases & Tools**
 
-- 📫 How to reach me **chandu**
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-- ⚡ Fun fact **I Think I am Lazy...!😉**
-<h3 align="left">Connect with me:</h3>
-<a href="https://www.linkedin.com/in/chandu-darapaneni-1631b3329/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="Linkedin" width="40" height="40""></a>
-<p align="left">
-</p>
-<h3 align="left">Languages and Tools:</h3>
- <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/><a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"> 
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="springboot" width="40" height="40"/> 
- </a> 
- <a href="https://angular.io/" target="_blank" rel="noreferrer"> 
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" alt="angular" width="40" height="40"/> 
- </a>
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> 
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
- </a>
- </p>
+**AI / GenAI**
+
+![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square)
+![OpenAI](https://img.shields.io/badge/-OpenAI%20API-412991?style=flat-square&logo=openai&logoColor=white)
+
+---
+
+### 📌 Featured Projects
+
+**[CarrerClub](https://github.com/Chandu038/REPLACE_WITH_REPO_NAME)** — Live job listings platform aggregating jobs across India. React · Spring Boot · Firebase. [Live demo →](https://www.carrerclub.in/)
+
+**[Sweet Shop Management System](https://github.com/Chandu038/REPLACE_WITH_REPO_NAME)** — Full-stack inventory & order management app with JWT auth. Spring Boot · PostgreSQL · React.
+
+**[Knowledge RAG Assistant](https://github.com/chandu038/Knowledge-Rag-Assistant)** — AI-powered study assistant using RAG to answer questions and manage personalized study notes. Python · LangChain · Streamlit. [Live demo →](https://knowledge-rag-assistant.streamlit.app/)
+
+---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chandu038&show_icons=true&theme=default&hide_border=true)
