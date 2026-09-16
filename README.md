@@ -45,4 +45,4 @@ Computer Science graduate (B.Tech, 2026) building full-stack applications and AI
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chandu038&show_icons=true&theme=default&hide_border=true&cache_seconds=86400)
+**Author:** Darapaneni Chandu · [LinkedIn](https://www.linkedin.com/in/chandu-darapaneni-1631b3329/)
